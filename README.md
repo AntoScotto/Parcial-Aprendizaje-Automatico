@@ -1,12 +1,12 @@
 # Clasificación de Asteroides Potencialmente Peligrosos
-==============================
+
 
 Clasificación de Asteroides Potencialmente Peligrosos (PHA)
 
 Proyecto de Aprendizaje Automático enfocado en el desarrollo y evaluación de un modelo de Clasificación Binaria para predecir si un asteroide debe ser catalogado como Potencialmente Peligroso (PHA). El modelo utiliza parámetros orbitales y físicos del Asteroid_Dataset.csv y está implementado en Python con la librería scikit-learn.
 
 ---
-## Data set
+## Dataset
 * Nombre del archivo: Asteroid_Dataset.csv.
 
 * Instancias: Más de 800.000 registros (asteroides).
