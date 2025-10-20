@@ -9,7 +9,7 @@ Proyecto de Aprendizaje Automático enfocado en el desarrollo y evaluación de u
 ## Dataset
 * Nombre del archivo: Asteroid_Dataset.csv.
 
-* Instancias: Más de 800.000 registros (asteroides).
+* Instancias: Más de 100.000 registros (asteroides).
 
 * **Características Clave (Columnas):**
 
